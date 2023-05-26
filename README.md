@@ -14,20 +14,17 @@ This tutorial outlines the creation and configuration of Virtual Machines in Mic
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Find the virtual machines page in Microsoft Azure 
+- Create a new virtual machine 
+- Configure settings and deploy the virtual machine 
+- Remote into the virtual machine 
 
 <h2>Deployment and Configuration Steps</h2>
 
