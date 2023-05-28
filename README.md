@@ -2,6 +2,10 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com/watch?v=BqHgALNXW18)
+
 <h1>Deploying a virtual machine in the cloud (Azure)</h1>
 This tutorial outlines the creation and configuration of Virtual Machines in Microsoft Azure.<br />
 
