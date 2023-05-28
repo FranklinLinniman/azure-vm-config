@@ -4,7 +4,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com/watch?v=BqHgALNXW18)
+- ### [YouTube: Microsoft Azure: Create Virtual Machines](https://www.youtube.com/watch?v=BqHgALNXW18)
 
 <h1>Deploying a virtual machine in the cloud (Azure)</h1>
 This tutorial outlines the creation and configuration of Virtual Machines in Microsoft Azure.<br />
